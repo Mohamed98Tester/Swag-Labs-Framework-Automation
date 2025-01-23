@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="login Suite">
+    <test name="login Test">
+        <classes>
+            <class name="Tests.TC04_CheckOut_Button"/>
+        </classes>
+    </test>
+</suite>
